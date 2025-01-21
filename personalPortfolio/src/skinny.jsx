@@ -286,7 +286,7 @@ function SkinContent() {
           </mesh>
           <mesh position={[-9,-6,-8]} rotation={[0,0,0]}>
             <Text3D font={"Oblygasi_Regular.json"} size={1.5}>
-              Hi! I'm Jacob Dement!
+              Hi! I'm Chris Pepe!
             <MeshDistortMaterial distort={.1} speed={2} color="#ffff00"/>
             </Text3D>
           </mesh>
@@ -413,7 +413,7 @@ function SkinContent() {
     // Handle click event
     const handleClick = () => {
       console.log("About Clicked")
-      window.open("https://jacob.dement.dev", "_blank")
+      // window.open("https://jacob.dement.dev", "_blank")
     };
   
     return (
@@ -517,7 +517,7 @@ function SkinContent() {
   
     // Handle click event
     const handleClick = () => {
-      window.open("https://jacob.dement.dev")
+      // window.open("https://jacob.dement.dev")
     };
   
     return (
